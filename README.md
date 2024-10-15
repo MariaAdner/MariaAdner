@@ -6,8 +6,6 @@
 #### I am from ...
 ... Wismar.
 
-![Wismar](https://www.wismar.de/media/custom/2634_5593_1_g.JPG?1626674798)
-
 #### I like ... 
 
 1.  gardening
